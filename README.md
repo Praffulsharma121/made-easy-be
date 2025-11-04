@@ -1,6 +1,6 @@
-# Teacher Management API
+# Teacher Registration API
 
-This project is a simple backend built with **Express.js** for managing teacher records.  
+This project is a simple backend built with **Express.js** for registring teacher records.  
 It focuses on handling teacher data securely with proper validation and database management using **Sequelize** and **PostgreSQL**.
 
 ## Features
@@ -25,12 +25,10 @@ It focuses on handling teacher data securely with proper validation and database
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/teacher-api.git
-   cd teacher-api
+   [git clone https://github.com/yourusername/teacher-api.git](https://github.com/Praffulsharma121/made-easy-be.git)
 
 2. install dependencies
    npm install
-
 
 3. Set up your environment variables in a .env file
   DB_NAME=your_database_name  
