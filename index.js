@@ -39,5 +39,4 @@ app.post("/api/teachers", async (req, res) => {
     res.status(500).json({ msg: "Internal server error" });
   }
 });
-
 app.listen(port, () => console.log(`Server started on port ${port}`));
